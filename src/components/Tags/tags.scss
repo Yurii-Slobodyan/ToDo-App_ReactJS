@@ -1,0 +1,44 @@
+.tag{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 30px;
+    position: relative;
+    left: 5px;
+
+    &--grey{
+       background-color: grey; 
+    }
+
+    &--lime{
+        background-color: lime; 
+    }
+
+    &--purple{
+        background-color: purple; 
+    }
+
+    &--black{
+        background-color: black; 
+    }
+
+    &--black{
+        background-color: black; 
+    }
+
+    &--green{
+      background-color: green;
+    }
+
+    &--red{
+      background-color: red;
+    }
+
+    &--pink{
+        background-color: pink;
+      }
+
+    &--blue{
+      background-color: rgb(58, 58, 233);
+    }
+}
